@@ -1,4 +1,4 @@
-<h3> <p align="center"> Quantum-Cryptography </p> </h3>
+<h2> <p align="center"> Quantum-Cryptography </p> </h2>
 
 
 
